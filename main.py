@@ -22,7 +22,6 @@ import setting
 import search
 
 
-# 346284300
 
 
 @bot.message_handler(commands=['start'])
